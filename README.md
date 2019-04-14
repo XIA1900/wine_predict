@@ -1,2 +1,1 @@
-# wine_price
-# my python final project
+# wine_predict
